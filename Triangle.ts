@@ -185,3 +185,4 @@ export default class Triangle {
       }
     }
   }
+  
